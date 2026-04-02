@@ -14,5 +14,9 @@ public class OrgTest {
 		System.out.println("executed modify org test");
 
 	}
+	public void modifiednewmethod() {
+		System.out.println("executed modify org test");
 
+	}
+ 
 }
